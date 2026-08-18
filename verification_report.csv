@@ -1,0 +1,8 @@
+dataset,status,records,columns,credibility,flagged
+Shipping Rates,✓ OK,15324,6,93.5,142
+Trade Edges (static),✓ OK,571,5,83.8,49
+Global Trade Volume (daily),✓ OK,2554,2,93.8,23
+News Events,✓ OK,3385,16,82.2,83
+News Features,✓ OK,2550,74,74.2,96
+Demand Data,✓ OK,109822,6,95.5,12
+Global Demand,✓ OK,2554,2,94.5,13
