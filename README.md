@@ -29,48 +29,49 @@ pandas==2.0.3
 scipy==1.10.1
 scikit-learn==1.3.0
 
-# Deep Learning (PyTorch Ecosystem)
+## Deep Learning (PyTorch Ecosystem)
 torch==2.0.1
 
-# PyTorch Geometric (Graph Neural Networks)
+## PyTorch Geometric (Graph Neural Networks)
 torch-geometric==2.3.1
 torch-scatter==2.1.1
 torch-sparse==0.6.17
 
-# LLM / AI Verification
+## LLM / AI Verification
 openai==0.28.1  # For LLM fact-checking (GPT-4 API)
 
-# Data Collection & Web Scraping
+## Data Collection & Web Scraping
 requests==2.31.0
 beautifulsoup4==4.12.2
 lxml==4.9.3
 
-# Data Processing
+## Data Processing
 openpyxl==3.1.2
 python-dotenv==1.0.0
-# Visualization
+
+## Visualization
 matplotlib==3.7.2
 seaborn==0.12.2
 networkx==3.1
 plotly==5.15.0
 
-# Utilities
+## Utilities
 tqdm==4.65.0
 joblib==1.3.1
 
-# Experiment Tracking & MLOps
+## Experiment Tracking & MLOps
 mlflow==2.5.0
 
-# Testing
+## Testing
 pytest==7.4.0
 pytest-cov==4.1.0
 
-# Install xgboost
+## Install xgboost
 pip install xgboost
 
-# Install shap
+## Install shap
 pip install shap
 
-# install matplotlib
+## install matplotlib
 pip install matplotlib
 
